@@ -1,0 +1,9 @@
+# ads.txt — vendeurs autorisés à commercialiser les espaces publicitaires
+# de ce domaine. Norme IAB. Doit rester à la racine du site.
+#
+# ATTENTION : remplacez pub-0000000000000000 ci-dessous par VOTRE identifiant
+# d'éditeur AdSense, puis supprimez cette ligne d'avertissement.
+# Où le trouver : AdSense › Compte › Paramètres › Informations sur le compte.
+# Il commence par « pub- » et compte 16 chiffres.
+
+google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
